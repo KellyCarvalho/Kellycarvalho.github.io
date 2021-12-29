@@ -11428,6 +11428,10 @@ section.resume-section .resume-section-content {
 .background{
   background-color: black;
 }
+
+a:hover{
+  color: #0c4128;
+}
 @media (min-width: 768px) {
   section.resume-section {
     min-height: 100vh;
